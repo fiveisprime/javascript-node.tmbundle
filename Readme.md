@@ -5,7 +5,5 @@
 
 ## Installation
 
-```
-$ cd ~/Library/Application\ Support/TextMate/Bundles/
-$ git clone git://github.com/visionmedia/node.tmbundle.git
-```
+    $ cd ~/Library/Application\ Support/TextMate/Managed/Bundles/
+    $ git clone git://github.com/fiveisprime/javascript-node.tmbundle.git

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>setTimeout(function(){
+	<string>setTimeout(function() {
 	$0
 }, ${1:ms});</string>
 	<key>name</key>
@@ -11,7 +11,7 @@
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>st</string>
+	<string>timeout</string>
 	<key>uuid</key>
 	<string>5B2C089B-B319-4BFD-9BEE-AF3527263921</string>
 </dict>
