@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>/*!
- * ${1:Project Name}
- * Copyright(c) 2010 ${2:Author Name} &lt;${3:Author Email}&gt;
- * MIT Licensed
- */</string>
+	<string>//
+//     ${1:Project Name}
+//     Copyright(c) 2010 ${2:Author Name} &lt;${3:Author Email}&gt;
+//     MIT Licensed
+//</string>
 	<key>name</key>
 	<string>comment file</string>
 	<key>scope</key>
