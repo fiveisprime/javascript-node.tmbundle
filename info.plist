@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>JavaScript node</string>
+	<string>JavaScript Node</string>
 	<key>ordering</key>
 	<array>
 		<string>02ABB4AD-057E-4CD4-9906-9AA60D87EE14</string>
@@ -36,6 +36,12 @@
 		<string>6C20BA0D-BEAF-4E70-8CC7-5A63A33DA937</string>
 		<string>D7BBB876-FBAC-4A8C-8694-320766A5265D</string>
 		<string>F7A4C58E-8506-4409-8686-0E1DA09EEA97</string>
+		<string>------------------------------------</string>
+		<string>06BF6A38-9FA6-4ED0-B5A7-ADC7E04AA28F</string>
+		<string>377C63EB-154D-40FD-9038-C6BA4076844E</string>
+		<string>3F570E5E-7708-43E2-8AD4-375F5AAAC9A5</string>
+		<string>8B12D339-6935-4CA0-8EF1-DE990B584CBB</string>
+		<string>C60D1D19-1D57-4BA9-92F8-483534A2167A</string>
 	</array>
 	<key>uuid</key>
 	<string>07C4DE9E-0AF8-425F-A484-6C0777E251B1</string>

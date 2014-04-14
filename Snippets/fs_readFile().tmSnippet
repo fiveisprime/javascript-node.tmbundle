@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>fs.readFile('${1:path}', function(err, data) {
+	<string>fs.readFile('${1:path}', function (err, data) {
 	$2
 });</string>
 	<key>name</key>

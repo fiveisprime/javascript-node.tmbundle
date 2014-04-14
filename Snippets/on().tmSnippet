@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>on('${1:event}', function($2) {
+	<string>on('${1:event}', ${2:function ($3) {
 	$0
-});</string>
+}});</string>
 	<key>name</key>
 	<string>on()</string>
 	<key>scope</key>

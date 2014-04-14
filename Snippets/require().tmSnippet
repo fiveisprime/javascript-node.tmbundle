@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>require('${1:module}')</string>
+	<string>require('${1:module}')$2</string>
 	<key>name</key>
 	<string>require()</string>
 	<key>scope</key>

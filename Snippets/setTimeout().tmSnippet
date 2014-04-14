@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>setTimeout(function() {
+	<string>setTimeout(${1:function() {
 	$0
-}, ${1:ms});</string>
+}}, ${2:ms});</string>
 	<key>name</key>
 	<string>setTimeout()</string>
 	<key>scope</key>

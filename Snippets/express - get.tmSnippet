@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>setInterval(${1:function (){
-	$0
-}}, ${2:ms});</string>
+	<string>express - get</string>
 	<key>name</key>
-	<string>setInterval()</string>
+	<string>app.get('$1', function (req, res) {
+	$2
+});</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>si</string>
+	<string>get</string>
 	<key>uuid</key>
-	<string>EA683C44-85EC-4EEB-B2C3-38F16D584482</string>
+	<string>3F570E5E-7708-43E2-8AD4-375F5AAAC9A5</string>
 </dict>
 </plist>
