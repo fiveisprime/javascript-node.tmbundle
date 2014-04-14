@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>express - put</string>
-	<key>name</key>
 	<string>app.put('$1', function (req, res) {
 	$2
 });</string>
+	<key>name</key>
+	<string>express - put</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

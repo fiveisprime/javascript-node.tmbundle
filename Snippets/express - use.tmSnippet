@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>express - use</string>
-	<key>name</key>
 	<string>app.use(${1:function (req, res, next) {
 	$2
 \}});</string>
+	<key>name</key>
+	<string>express - use</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

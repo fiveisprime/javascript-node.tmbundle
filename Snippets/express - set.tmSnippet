@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>express - set</string>
-	<key>name</key>
 	<string>app.set('$1', '$2');</string>
+	<key>name</key>
+	<string>express - set</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
